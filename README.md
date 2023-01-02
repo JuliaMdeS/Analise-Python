@@ -1,2 +1,2 @@
-# Analise-Python
-Repositório para análise de dados utilizando Python
+# Exerc-Python
+Repositório para estudos de análise de dados utilizando Python
